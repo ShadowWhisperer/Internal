@@ -1,2 +1,1 @@
-# Internal
-Internal Use
+For internal use.
